@@ -1,4 +1,4 @@
-[La guerre](https://github.com/Frankwel/Premiere-guerre-mondiale/blob/master/la-guerre.md)   [Ses origines](https://github.com/Frankwel/Premiere-guerre-mondiale/blob/master/ses-origines.md)   [Chronologie](https://github.com/Frankwel/Premiere-guerre-mondiale/blob/master/chronologie.md)   [La guerre](https://github.com/Frankwel/Premiere-guerre-mondiale/blob/master/bilan.md)
+[La guerre](la-guerre)   [Ses origines](ses-origines)   [Chronologie](chronologie)   [La guerre](https://github.com/Frankwel/Premiere-guerre-mondiale/blob/master/bilan.md)
 
 # La première guerre mondiale (1914 - 1918)
 
